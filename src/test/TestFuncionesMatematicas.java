@@ -2,7 +2,7 @@ import org.junit.*;
 import org.junit.Assert.*;
 import java.lang.IllegalArgumentException;
 
-public class testtt {
+public class TestFuncionesMatematicas {
 
 	@Test
 	public void testSuma(){

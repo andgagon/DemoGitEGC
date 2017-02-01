@@ -10,4 +10,8 @@ public class FuncionesMatematicas {
 		return a-b;
 	}
 	
+	public static Double sqrt(Double a){
+		return Math.sqrt(a);
+	}
+	
 }

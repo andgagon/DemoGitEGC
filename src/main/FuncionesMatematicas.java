@@ -4,6 +4,7 @@ public class FuncionesMatematicas {
 
 	public Integer suma(Integer  c, Integer b){
 		return c+b;
+
 	}
 	
 	public Integer resta(Integer a, Integer b){
